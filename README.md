@@ -1,9 +1,8 @@
-## Development of an Articulated Robotic Arm for Precision Bottle Handling
-
+## Development of a Conveyor Belt for Bottle Movement
 # Industrial Automation and Robotics Project- Course ME/CE/EE 4177 
 
 **Project Overview**
-This project involved the design and fabrication of a 4-Degree of Freedom (4-DOF) articulated robotic arm integrated with an automated conveyor system for industrial packaging simulations. The system was engineered to replace manual, error-prone bottle handling with a reliable, automated pick-and-place sequence. 
+This project involved the design and fabrication of a conveyor belt system for industrial packaging simulations. The system was engineered to replace manual, error-prone bottle handling with a reliable, automated pick-and-place sequence. 
 
 **Key Performance Metrics**
 - Accuracy: Achieved 96.4% detection and placement accuracy using coordinated control logic. 
@@ -33,4 +32,4 @@ This project involved the design and fabrication of a 4-Degree of Freedom (4-DOF
 As Project Lead, I managed a multidisciplinary team to ensure the successful integration of mechanical fabrication, power electronics, and software control. I was responsible for overseeing control-system programming, sensor integration, and system-level testing. I also adapted execution during external delays by reallocating tasks, maintaining productivity, and meeting project milestones.
 
 ### Live Demo
-[![Watch the Robotic Arm in Action](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)]([https://youtube.com/shorts/-HBSWgNMiRg](https://youtube.com/shorts/TY5H6ucJD_s?si=KOYPugjOjP4Ag0N1))
+[![Watch the Robotic Arm in Action](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/TY5H6ucJD_s?si=KOYPugjOjP4Ag0N1)
