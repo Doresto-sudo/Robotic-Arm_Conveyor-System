@@ -33,4 +33,4 @@ This project involved the design and fabrication of a 4-Degree of Freedom (4-DOF
 As Project Lead, I managed a multidisciplinary team to ensure the successful integration of mechanical fabrication, power electronics, and software control. I was responsible for overseeing control-system programming, sensor integration, and system-level testing. I also adapted execution during external delays by reallocating tasks, maintaining productivity, and meeting project milestones.
 
 ### Live Demo
-[![Watch the Robotic Arm in Action](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/-HBSWgNMiRg)
+[![Watch the Robotic Arm in Action](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)]([https://youtube.com/shorts/-HBSWgNMiRg](https://youtube.com/shorts/TY5H6ucJD_s?si=KOYPugjOjP4Ag0N1))
